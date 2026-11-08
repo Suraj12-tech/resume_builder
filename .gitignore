@@ -1,0 +1,11 @@
+.idea/
+__MACOSX/
+**/target/
+**/node_modules/
+**/dist/
+**/build/
+**/.env
+**/.env.*
+!**/.env.example
+*.log
+/code.pdf
